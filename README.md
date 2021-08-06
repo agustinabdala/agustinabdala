@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, IIoT, IoT, Industry 4.0.
 - 🌱 I’m currently learning Digital Transformation | C | C++ | Arduino | nodeMCU | other stuff!
 - 💞️ I’m looking to collaborate on IoT devices and platforms
-- 📫 How to reach me agu007@gmail.com
+- 📫 How to reach me agu2@hotmail.com
 
 <!---
 agustinabdala/agustinabdala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
