@@ -1,39 +1,56 @@
-# AGUSTÍN HIPÓLITO ABDALA
+AGUSTÍN HIPÓLITO ABDALA
+SUMMARY
 
-## SUMMARY
+🎯 I’m an accomplished Engineering Manager, Tech & Dev Team Leader, Process Engineer, and Data Analyst, combining deep technical expertise with strategic business insight and team leadership.
 
-I am a seasoned Engineering Manager, Tech & Dev Team Leader, Process Engineer, and Data Analyst with a distinctive combination of technical proficiency, business analysis, and leadership acumen.
+Currently expanding my capabilities through the Data Engineering Professional Certificate, I focus on building robust, scalable, and insight-driven data solutions that power digital transformation, smart systems, and industrial automation.
 
-Currently, I am honing my skills through the “Data Engineering Professional Certificate” course.
-My expertise encompasses Smart Home and Building Management Systems, IoT, IIoT, Industry 4.0, and Digital Transformation.
+With a solid track record in the automotive industry—including roles at VOLKSWAGEN and RENAULT—I bring hands-on experience in audit, supplier management, and process optimization, coupled with a sharp understanding of industry standards and production systems.
 
-I have experience in the automotive sector, having worked as an auditor and purchasing assistant for VOLKSWAGEN and RENAULT, where I demonstrated a profound understanding of industry intricacies.
+My leadership spans Agile, SCRUM, Kanban, and Waterfall methodologies, delivering complex projects on time and within scope. I lead multidisciplinary teams, bridging the gap between developers, analysts, engineers, and stakeholders to turn business needs into high-impact technical outcomes.
 
-With a background in Agile Methodologies and Project Management (Waterfall, SCRUM, kanban), I have a proven track record of delivering successful projects on time and within budget.
-I am proficient in the Python programming language, C/C++, and JavaScript.
+I am proficient in Python, C/C++, and JavaScript, with a strong foundation in data visualization, machine learning, AI, and business intelligence tools. I work comfortably across platforms—Linux, Windows, macOS—and leverage modern tooling like Git, SQL, and ETL frameworks for seamless versioning, querying, and data operations.
 
-My technical proficiency extends to Data Visualization and the adept use of tools such as Python SK-Learn, AI frameworks, ML technologies, PowerBI, QlikSense, SQL, and data engineering.
-My expertise also includes version control tools like GIT and operating systems such as Linux, Windows, and macOS.
+✅ Known for being proactive, detail-oriented, and results-driven, I thrive in high-stakes environments where both technical excellence and cross-team collaboration are essential. I’m fluent in English (B2/C1) and communicate effectively with both technical and non-technical audiences.
+TECHNICAL SKILLS
+🧠 Programming & Data Science
 
-Recognized for my proactive, detail-oriented, organized, and responsible approach, I am a respectful professional with a proficient level of English (B2/C1) and excellent communication skills.
+    Python (Pandas, NumPy, scikit-learn)
 
-## TECHNICAL SKILLS
+    C / C++
 
-- Python
-- SK-Learn
-- AI
-- ML
-- PowerBI
-- QlikSense
-- SQL
-- Jira
-- Javascript
-- C
-- C++
-- ETL
-- Confluence CRM
-- Help Desk
-- Database
-- Git
-- Scrum
-- Agile Methodologies
+    JavaScript
+
+    Machine Learning & AI frameworks
+
+    Data Engineering & ETL Pipelines
+
+📊 BI & Visualization
+
+    Power BI
+
+    Qlik Sense
+
+    SQL (PostgreSQL, MySQL)
+
+    Data Modeling & Dashboards
+
+🛠️ Development Tools & Environments
+
+    Git / GitHub
+
+    Linux, Windows, macOS
+
+    VS Code, Jupyter, Anaconda
+
+🧩 Project & Team Management
+
+    Agile / Scrum / Kanban / Waterfall
+
+    Jira & Confluence
+
+    CRM & Help Desk Systems
+
+    Technical Documentation
+
+    Cross-functional Team Leadership
