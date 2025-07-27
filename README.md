@@ -1,56 +1,44 @@
-AGUSTÍN HIPÓLITO ABDALA
-SUMMARY
+# AGUSTÍN HIPÓLITO ABDALA
 
-🎯 I’m an accomplished Engineering Manager, Tech & Dev Team Leader, Process Engineer, and Data Analyst, combining deep technical expertise with strategic business insight and team leadership.
+## 🧩 SUMMARY
 
-Currently expanding my capabilities through the Data Engineering Professional Certificate, I focus on building robust, scalable, and insight-driven data solutions that power digital transformation, smart systems, and industrial automation.
+🎯 I’m an accomplished **Engineering Manager**, **Tech & Dev Team Leader**, **Process Engineer**, and **Data Analyst**, combining deep technical expertise with strategic business insight and team leadership.
 
-With a solid track record in the automotive industry—including roles at VOLKSWAGEN and RENAULT—I bring hands-on experience in audit, supplier management, and process optimization, coupled with a sharp understanding of industry standards and production systems.
+Currently expanding my capabilities through the **Data Engineering Professional Certificate**, I focus on building robust, scalable, and insight-driven data solutions that power **digital transformation**, **smart systems**, and **industrial automation**.
 
-My leadership spans Agile, SCRUM, Kanban, and Waterfall methodologies, delivering complex projects on time and within scope. I lead multidisciplinary teams, bridging the gap between developers, analysts, engineers, and stakeholders to turn business needs into high-impact technical outcomes.
+With a solid track record in the **automotive industry**—including roles at **VOLKSWAGEN** and **RENAULT**—I bring hands-on experience in **audit**, **supplier management**, and **process optimization**, coupled with a sharp understanding of industry standards and production systems.
 
-I am proficient in Python, C/C++, and JavaScript, with a strong foundation in data visualization, machine learning, AI, and business intelligence tools. I work comfortably across platforms—Linux, Windows, macOS—and leverage modern tooling like Git, SQL, and ETL frameworks for seamless versioning, querying, and data operations.
+My leadership spans **Agile, SCRUM, Kanban, and Waterfall** methodologies, delivering complex projects on time and within scope. I lead multidisciplinary teams, bridging the gap between developers, analysts, engineers, and stakeholders to turn business needs into high-impact technical outcomes.
 
-✅ Known for being proactive, detail-oriented, and results-driven, I thrive in high-stakes environments where both technical excellence and cross-team collaboration are essential. I’m fluent in English (B2/C1) and communicate effectively with both technical and non-technical audiences.
-TECHNICAL SKILLS
-🧠 Programming & Data Science
+I am proficient in **Python**, **C/C++**, and **JavaScript**, with a strong foundation in **data visualization**, **machine learning**, **AI**, and **business intelligence** tools. I work comfortably across platforms—**Linux, Windows, macOS**—and leverage modern tooling like **Git**, **SQL**, and **ETL frameworks** for seamless versioning, querying, and data operations.
 
-    Python (Pandas, NumPy, scikit-learn)
+✅ Known for being **proactive**, **detail-oriented**, and **results-driven**, I thrive in high-stakes environments where both technical excellence and cross-team collaboration are essential. I’m fluent in English (B2/C1) and communicate effectively with both technical and non-technical audiences.
 
-    C / C++
+---
 
-    JavaScript
+## 🛠 TECHNICAL SKILLS
 
-    Machine Learning & AI frameworks
+### 💻 Programming & Data Science
+- Python (Pandas, NumPy, scikit-learn)
+- C / C++
+- JavaScript
+- Machine Learning & AI frameworks
+- Data Engineering & ETL Pipelines
 
-    Data Engineering & ETL Pipelines
+### 📊 BI & Data Visualization
+- Power BI  
+- Qlik Sense  
+- SQL (PostgreSQL, MySQL)  
+- Data Modeling & Dashboards
 
-📊 BI & Visualization
+### 🧰 Development Tools & Environments
+- Git / GitHub  
+- Linux, Windows, macOS  
+- VS Code, Jupyter, Anaconda
 
-    Power BI
-
-    Qlik Sense
-
-    SQL (PostgreSQL, MySQL)
-
-    Data Modeling & Dashboards
-
-🛠️ Development Tools & Environments
-
-    Git / GitHub
-
-    Linux, Windows, macOS
-
-    VS Code, Jupyter, Anaconda
-
-🧩 Project & Team Management
-
-    Agile / Scrum / Kanban / Waterfall
-
-    Jira & Confluence
-
-    CRM & Help Desk Systems
-
-    Technical Documentation
-
-    Cross-functional Team Leadership
+### 📈 Project & Team Management
+- Agile / Scrum / Kanban / Waterfall  
+- Jira & Confluence  
+- CRM & Help Desk Systems  
+- Technical Documentation  
+- Cross-functional Team Leadership
